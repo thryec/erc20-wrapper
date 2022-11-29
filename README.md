@@ -21,7 +21,7 @@ Two contracts will be required:
 
 `deposit()`
 
-- receives ERC-20 token from user
+- receives ERC-20 token from usere
 - checks that the token is of the pre-specified address
 - mints an equivalent number of wrapper tokens to sender
 
